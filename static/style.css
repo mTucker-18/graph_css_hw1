@@ -1,3 +1,46 @@
 body {
 
 }
+
+.MainContent {
+  display: grid;
+  background-color: #e6e8e6;
+  grid-template-rows: 20% 80%;
+  font-family: 'Lato', sans-serif;
+}
+
+.GraphHeader {
+  grid-row: 1;
+  background-color: #a7a5c6;
+  /* margin: auto; */
+  border: 5px solid #a0a083;
+}
+
+.GraphContainer {
+  grid-row: 2;
+}
+
+.GraphBars {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+
+}
+
+.July2018 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 300px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2017 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 350px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}

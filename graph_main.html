@@ -2,15 +2,34 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Basic Page Start</title>
+		<title>Weather Data Visualization</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link rel="stylesheet" href="static/style.css">
 	</head>
 
   <style>
-
   </style>
 
 	<body>
-		<p>Start Typing Here</p>
+    <div class="MainContent">
+      <div class="GraphHeader">
+		     <h1>San Francisco Weather Over the Last 10 Years</h1>
+      </div>
+
+      <div class="GraphContainer">
+        <p>All records taken on July 15th</p>
+        <div class="GraphBars">
+          <div class="July2018">
+            <p onClick="alert('High:68 Low:59 Avg:60')">July 2018</p>
+          </div>
+
+          <div class="July2017">
+            <p>July 2017</p>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
 	</body>
 </html>
