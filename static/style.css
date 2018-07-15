@@ -22,9 +22,13 @@ body {
 
 .GraphBars {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: flex-end;
 
+}
+
+.EmptyColumn {
+  height: 500px;
 }
 
 .July2018 {
@@ -40,6 +44,87 @@ body {
   color: #6e9075;
   background-color: #e4e9b2;
   height: 350px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2016 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 315px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2015 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 300px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2014 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 300px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2013 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 300px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2012 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 300px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2011 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 300px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2010 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 300px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2009 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 300px;
+  padding: 5px;
+  border: 5px solid #a0a083;
+  border-bottom: none;
+}
+
+.July2008 {
+  color: #6e9075;
+  background-color: #e4e9b2;
+  height: 300px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;

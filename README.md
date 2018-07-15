@@ -10,3 +10,5 @@ white-ish: #e6e8e6
 green: #6e9075
 brown: #a0a083
 yellow-green: #e4e9b2
+
+4. Click on the dates to see more specific information.
