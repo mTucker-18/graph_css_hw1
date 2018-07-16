@@ -1,0 +1,59 @@
+SF Weather Data
+
+July 15 - 2018
+  Avg- 60
+  High- 68
+  Low- 55
+
+July 15 - 2017
+  Avg- 70
+  High- 85
+  Low- 55
+
+July 15 - 2016
+  Avg- 64
+  High- 73
+  Low- 54
+
+July 15 - 2015
+  Avg- 69
+  High- 79
+  Low- 59
+
+July 15 - 2014
+  Avg- 70
+  High- 81
+  Low- 59
+
+July 15 - 2013
+  Avg- 61
+  High- 69
+  Low- 53
+
+July 15 - 2012
+  Avg- 62
+  High- 69
+  Low- 54
+
+July 15 - 2011
+  Avg- 60
+  High- 64
+  Low- 55
+
+July 15 - 2010
+  Avg- 67
+  High- 74
+  Low- 59
+
+July 15 - 2009
+  Avg- 62
+  High- 70
+  Low- 53
+
+July 15 - 2008
+  Avg- 63
+  High- 68
+  Low- 58
+
+
+Source data = wunderground.com
