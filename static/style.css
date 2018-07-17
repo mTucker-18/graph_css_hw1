@@ -12,7 +12,6 @@ body {
 .GraphHeader {
   grid-row: 1;
   background-color: #a7a5c6;
-  /* margin: auto; */
   border: 5px solid #a0a083;
 }
 
@@ -26,7 +25,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  height: 500px;
+  height: 600px;
 }
 
 .EmptyColumn {
@@ -37,7 +36,7 @@ body {
 .July2018 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 300px;
+  height: 340px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
@@ -46,16 +45,22 @@ body {
 .July2017 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 350px;
+  height: 500px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
 }
 
+.July2017:hover {
+  transition: 1.5s;
+  height: 700px;
+  background-color: red;
+}
+
 .July2016 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 315px;
+  height: 360px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
@@ -64,7 +69,7 @@ body {
 .July2015 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 345px;
+  height: 480px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
@@ -73,7 +78,7 @@ body {
 .July2014 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 350px;
+  height: 500px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
@@ -82,7 +87,7 @@ body {
 .July2013 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 305px;
+  height: 320px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
@@ -91,7 +96,7 @@ body {
 .July2012 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 310px;
+  height: 340px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
@@ -109,7 +114,7 @@ body {
 .July2010 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 335px;
+  height: 440px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
@@ -118,7 +123,7 @@ body {
 .July2009 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 310px;
+  height: 340px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
@@ -127,7 +132,7 @@ body {
 .July2008 {
   color: #6e9075;
   background-color: #e4e9b2;
-  height: 315px;
+  height: 360px;
   padding: 5px;
   border: 5px solid #a0a083;
   border-bottom: none;
