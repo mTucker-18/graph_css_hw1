@@ -2,7 +2,7 @@
 
 1. This is a graphical representation of weather highs/lows/avgs over ten years in San Francisco.
 
-2. Data comes from wunderground.com, one degree = 5px
+2. Data comes from wunderground.com, base height = (Avg temp/2) * 10, then one degree = 20px
 
 3. Color scheme used:
 lavendar: #a7a5c6
