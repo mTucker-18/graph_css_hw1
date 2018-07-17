@@ -1,8 +1,8 @@
 SF Weather Data
 
 July 15 - 2018
-  Avg- 60
-  High- 68
+  Avg- 62
+  High- 69
   Low- 55
 
 July 15 - 2017
