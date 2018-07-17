@@ -1,7 +1,4 @@
-body {
-
-}
-
+/* styled whole page here, all according to BEM*/
 .MainContent {
   display: grid;
   background-color: #e6e8e6;
@@ -21,6 +18,7 @@ body {
   border-top: none;
 }
 
+/* flex inside of grid so I can add more bars later if needs be */
 .GraphBars {
   display: flex;
   justify-content: space-between;
@@ -30,7 +28,6 @@ body {
 
 .EmptyColumn {
   height: 500px;
-  /* width: 500px; */
 }
 
 .July2018 {
@@ -51,6 +48,7 @@ body {
   border-bottom: none;
 }
 
+/* extra bit of styling because it was the hottest year */
 .July2017:hover {
   transition: 1.5s;
   height: 700px;
